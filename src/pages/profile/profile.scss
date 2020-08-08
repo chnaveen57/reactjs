@@ -1,0 +1,95 @@
+.profile-photo
+{
+    float: left;
+}
+.profile
+{
+    clear: both;
+    background-position: bottom;
+}
+.user-name{
+    padding: 20px;
+}
+.edit-button{
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+.no-vehicle{
+    padding-top: 20px;
+    padding-left: 200px;
+}
+.user-name-text
+{
+    padding: 10px;
+}
+.save-profile
+{
+    background-color: #9319FF;
+}
+.vehicles{
+    padding-left: 230px;
+}
+.profile-form{
+    padding-top: 50px;
+}
+.add-vehicle{
+    background-color: #FFAC19;
+    margin-left: 440px;
+    margin-bottom: 10px;
+}
+.vehicle-form
+{
+    padding: 30px;
+    border-style: groove;
+    border-width: 1.5px;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 280px;
+    background-color: white;
+}
+.vehicle-submit-button{
+    background-color: #9319FF;
+}
+.wallet{
+    padding-left: 230px;
+}
+.show-balance{
+    padding-left: 30px;
+    display: inline;
+}
+.add-balance-button
+{
+    background-color: #9319FF;
+    margin-left: 15px;
+}
+.update-balance
+{
+    background-color: #FFAC19;
+}
+.balance-form
+{
+    margin: 10px;
+    padding: 30px;
+    border-style: groove;
+    border-width: 1.5px;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 120px;
+    background-color: white;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 30px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

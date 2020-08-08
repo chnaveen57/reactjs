@@ -1,0 +1,22 @@
+.vertical-menu {
+    width: 150px;
+    align-items: center;
+    margin: 0;
+    position: absolute;
+    left: 87%;
+    top: 61px;
+    text-align: center;
+    border-style: inset;
+    background-color: white;
+  }
+  .link {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .link:hover {
+    background-color: #9319FF;
+  }
+  

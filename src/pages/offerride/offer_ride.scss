@@ -1,0 +1,79 @@
+.next-button{
+    clear: both;
+    float: right;
+    border: none;
+    background-color: inherit;
+    margin-top: 50px;
+    color: #9319FF;
+    margin-right: -81px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .via-points{
+    float: left;
+    width:365px;
+    border-style: groove;
+    border-width: 1.5px;
+    border-radius: 10px;
+    padding: 36px 10px 10px 27px;
+    margin-left: 72px;
+    background-color: white;
+  }
+  .book-ride-form{
+    clear: both;
+    float: left;
+    padding-top: 20px;
+}
+input[type=text],input[type=date],input[type=number],select {
+    outline: 0;
+    width: 285px;
+    margin-bottom: 20px;
+    border-width: 0 0 2px;
+    border-color: #A8A2A1
+  }
+  input:focus {
+    border-color: blue
+  }
+  input[type=radio]{
+    height: 0;
+    width: 0;
+    margin-top: 30px;
+  }
+  .seats{
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color:grey;
+    color: black;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    padding: 10px 15px 10px 15px; 
+  }
+  .available-seats{
+    float: left;
+    padding-right: 50px;
+  }
+  .ride-price{
+    float: left;
+  }
+  .ride-money
+  {
+    margin-top: 20px;
+    width: 70px !important;
+  }
+  .yellow-button {
+    background-color: #FFAC19;
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0;
+    margin-top: 40px;
+}

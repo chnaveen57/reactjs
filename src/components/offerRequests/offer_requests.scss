@@ -1,0 +1,30 @@
+.offer-request
+{
+    margin: 10%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: white;
+}
+.request-accept{
+    padding: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color: green;
+}
+.request-reject{
+    padding: 10px;
+    display: inline-block;
+    color: red;
+    cursor: pointer;
+}
+.request-heading
+{
+    float: left;
+}
+.close-requests
+{
+    float: right;
+    cursor: pointer;
+}

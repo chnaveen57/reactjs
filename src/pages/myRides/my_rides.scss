@@ -1,0 +1,33 @@
+.my-rides{
+    clear: both;
+}
+.booked-rides{
+    float: left;
+    width: 30%;
+    padding: 0 25px 20px 25px;
+}
+.offered-rides{
+    float: left;
+    width: 30%;
+    padding: 0 25px 20px 25px;
+}
+.booked-ride-heading
+{
+    background-color: #FFAC19;
+    font-size: 15px;
+    color: white;
+    width: 100px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.offered-ride-heading
+{  
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: white;
+    width: 100px;
+    padding: 5px 10px 5px 10px;
+    background-color: #9319FF;
+    border-radius: 5px;
+}

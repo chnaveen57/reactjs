@@ -1,0 +1,80 @@
+.ride-card{
+    width: 320px;
+    height: 250px;
+    margin: 5px;
+    border-style: groove;
+    border-width: 1.5px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: white;
+}
+.ride-rating{
+    width: 100px;
+    margin: 5px;
+}
+.rating
+{
+    color: #9319FF;
+    padding: 10px;
+}
+.ride-request
+{
+    background-color: #9319FF;
+}
+.cancel-request{
+    background-color: #FFAC19;
+    margin: 0;
+    width: 90px;
+}
+.star-rating
+{
+    font-size: 15px;
+}
+.rating{
+    margin-left: 145px;
+}
+.update-request
+{
+    background-color: #9319FF;
+    margin: 0;
+    width: 90px;
+}
+.ride-requests{
+    padding-left: 170px;
+    color: #9319FF;
+    cursor: pointer;
+}
+.rider-name{
+    float: left;
+}
+h2{
+    margin:0;
+}
+.rider-image{
+    float: right;
+}
+.left-side
+{
+    clear: both;
+    float: left;
+    padding-right: 10px;
+}
+.ride-details{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.right-side
+{
+    float: left;
+    padding-left: 10px;
+}
+.way-points{
+    float: left;
+    margin-top: 14px;
+    padding: 10px;
+}
+.ride-rate
+{
+    color: #9319FF;
+    cursor: pointer;
+}

@@ -1,0 +1,74 @@
+.book-rides{
+    clear: both;
+      width:365px;
+      float: left;
+      padding: 20px 10px 20px 27px;
+      margin-left: 50px;
+      border-style: groove;
+      border-width: 1.5px;
+      border-radius: 10px;
+      background-color: white;
+  }
+  .book-ride-form{
+    clear: both;
+    float: left;
+    padding-top: 20px;
+}
+label{
+    font-size: 12px;
+    font-weight: bold;
+    color: #A8A2A1;
+    word-spacing: 2px;
+}
+input[type=text],input[type=date],input[type=number],select {
+    outline: 0;
+    width: 285px;
+    margin-bottom: 20px;
+    border-width: 0 0 2px;
+    border-color: #A8A2A1
+  }
+  input:focus {
+    border-color: blue
+  }
+  input[type="radio"]{
+    height: 0;
+    width: 0;
+    margin-top: 30px;
+  }
+  input[type="radio"]:checked + label {
+    background-color: #9319FF;
+}
+  .time-slot {
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9319FF;
+    color: black;
+    padding:5px;
+    border-radius: 20px;
+    height: 25px;
+    width: 85px;
+    padding: 5px 10px 5px 10px;
+  }
+  .book-ride-button
+  {
+    background-color: #FFAC19;
+    margin-top: 30px;
+    margin-left: 6px;
+  }
+  .location-dots
+  {
+    float: left;
+    margin-left: 25px;
+    margin-top: 32px;
+  }
+  .ride-match-heading{
+    color: #9319FF;
+    margin-bottom: 20px;
+  }
+  .rides{
+    float: left;
+    margin: 50px;
+  }
